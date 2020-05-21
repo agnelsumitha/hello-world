@@ -1,2 +1,4 @@
 # hello-world
-first repository
+
+shortest horror story ever
+be a sun shine
